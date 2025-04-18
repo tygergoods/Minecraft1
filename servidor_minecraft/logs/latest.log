@@ -1,0 +1,28 @@
+[18Apr2025 00:01:55.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saurio1230[/172.23.15.172:61230] logged in with entity id 233 at (-3.4485771173376203, 65.0, 0.7427931783871935)
+[18Apr2025 00:01:55.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saurio1230 joined the game
+[18Apr2025 00:01:56.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saurio1230 has made the advancement [Ice and Fire]
+[18Apr2025 00:01:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saurio1230 has made the advancement [Orcz Challenges]
+[18Apr2025 00:02:38.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saurio1230 has made the advancement [Alex's Mobs]
+[18Apr2025 00:02:44.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.23.215.146:52523] logged in with entity id 341 at (-6.353288623114008, 64.0, -4.69933827223171)
+[18Apr2025 00:02:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[18Apr2025 00:02:44.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Ice and Fire]
+[18Apr2025 00:02:44.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Orcz Challenges]
+[18Apr2025 00:02:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Alex's Mobs]
+[18Apr2025 00:05:15.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was shot by Skeleton
+[18Apr2025 00:05:47.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saurio1230 was slain by Lemurian
+[18Apr2025 00:06:24.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[18Apr2025 00:06:24.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[18Apr2025 00:06:26.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saurio1230 lost connection: Disconnected
+[18Apr2025 00:06:26.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saurio1230 left the game
+[18Apr2025 00:06:35.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Apr2025 00:06:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 00:06:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 00:06:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 00:06:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Apr2025 00:06:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Apr2025 00:06:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Apr2025 00:06:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 00:06:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 00:06:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 00:06:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr2025 00:06:38.047] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
