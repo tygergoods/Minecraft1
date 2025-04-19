@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-19 03:31:13 +0000"
@@ -185,6 +191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
@@ -245,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
@@ -299,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-19 03:37:36 +0000"
@@ -314,6 +344,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -518,6 +554,12 @@
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:48:23 +0000"
     },
     "done": true
   },
@@ -863,9 +905,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -1121,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-19 03:36:17 +0000"
@@ -1163,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
@@ -1172,6 +1238,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -1259,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
@@ -1286,6 +1364,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-19 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -1328,6 +1412,12 @@
   "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -1418,6 +1508,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -1526,6 +1622,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-19 03:47:42 +0000"
     },
     "done": true
   },
@@ -1650,6 +1752,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-19 03:40:22 +0000",
+      "apple": "2025-04-19 03:50:51 +0000",
       "rotten_flesh": "2025-04-19 03:35:22 +0000",
       "cooked_chicken": "2025-04-19 03:38:36 +0000"
     },
@@ -1664,6 +1767,12 @@
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-04-19 03:48:23 +0000"
     },
     "done": true
   },
