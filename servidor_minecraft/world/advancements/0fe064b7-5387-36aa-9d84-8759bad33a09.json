@@ -41,12 +41,6 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cake": {
-    "criteria": {
-      "has_the_recipe": "2025-04-18 00:05:14 +0000"
-    },
-    "done": true
-  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-04-18 00:02:44 +0000"
@@ -56,18 +50,6 @@
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-18 00:02:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-04-18 00:06:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-04-18 00:06:21 +0000"
     },
     "done": true
   },
@@ -83,27 +65,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-04-18 00:04:56 +0000"
-    },
-    "done": true
-  },
   "iter_rpg:iter_root": {
     "criteria": {
       "iter_root_0": "2025-04-18 00:02:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2025-04-18 00:06:21 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:main/root": {
     "criteria": {
       "join": "2025-04-18 00:02:44 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2025-04-18 00:02:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-18 00:02:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-18 00:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 00:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-04-18 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-04-18 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-18 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 00:05:14 +0000"
     },
     "done": true
   },
@@ -119,27 +137,27 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_coal": "2025-04-18 00:04:56 +0000"
+      "has_string": "2025-04-18 00:06:21 +0000"
     },
     "done": true
   },
-  "orcz:orczchallenge": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "orczchallenge": "2025-04-18 00:02:44 +0000"
+      "has_string": "2025-04-18 00:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-04-18 00:06:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-18 00:06:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-04-18 00:02:54 +0000"
     },
     "done": true
   },
@@ -155,27 +173,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-18 00:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-04-18 00:04:56 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/handle_from_string": {
     "criteria": {
       "has_string": "2025-04-18 00:06:21 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-18 00:02:44 +0000"
     },
     "done": true
   },
@@ -188,6 +188,42 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-18 00:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-19 03:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-19 03:33:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-19 03:33:49 +0000"
     },
     "done": true
   },

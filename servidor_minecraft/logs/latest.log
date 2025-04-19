@@ -1767,3 +1767,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [19Apr2025 03:30:25.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO was slain by Zombie
 [19Apr2025 03:30:36.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO lost connection: Disconnected
 [19Apr2025 03:30:36.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO left the game
+[19Apr2025 03:32:18.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was blown up by Creeper
+[19Apr2025 03:32:35.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELSAURIO[/172.23.15.172:53621] logged in with entity id 3819 at (7.5, 67.0, 10.5)
+[19Apr2025 03:32:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELSAURIO joined the game
+[19Apr2025 03:32:35.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELSAURIO has made the advancement [Ice and Fire]
+[19Apr2025 03:32:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELSAURIO has made the advancement [Orcz Challenges]
+[19Apr2025 03:32:57.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELSAURIO lost connection: Disconnected
+[19Apr2025 03:32:57.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELSAURIO left the game
+[19Apr2025 03:33:41.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Zombie
+[19Apr2025 03:33:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Monster Hunter]
+[19Apr2025 03:34:24.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Zombie
+[19Apr2025 03:34:54.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sau1230[/172.23.15.172:53747] logged in with entity id 5312 at (-4.5, 64.0, 10.5)
+[19Apr2025 03:34:54.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sau1230 joined the game
+[19Apr2025 03:34:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sau1230 has made the advancement [Ice and Fire]
+[19Apr2025 03:34:54.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sau1230 has made the advancement [Orcz Challenges]
+[19Apr2025 03:35:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Monster Hunter]
+[19Apr2025 03:35:48.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sau1230 lost connection: Disconnected
+[19Apr2025 03:35:48.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sau1230 left the game
+[19Apr2025 03:37:30.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DinoSau[/172.23.15.172:53885] logged in with entity id 6036 at (2.5, 66.0, 9.5)
+[19Apr2025 03:37:30.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DinoSau joined the game
+[19Apr2025 03:37:30.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DinoSau has made the advancement [Ice and Fire]
+[19Apr2025 03:37:30.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DinoSau has made the advancement [Orcz Challenges]
+[19Apr2025 03:37:36.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Stone Age]
+[19Apr2025 03:38:08.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DinoSau lost connection: Disconnected
+[19Apr2025 03:38:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DinoSau left the game
+[19Apr2025 03:39:50.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonSaurio[/172.23.15.172:54015] logged in with entity id 6670 at (2.5, 66.0, 9.5)
+[19Apr2025 03:39:50.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonSaurio joined the game
+[19Apr2025 03:39:51.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonSaurio has made the advancement [Ice and Fire]
+[19Apr2025 03:39:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonSaurio has made the advancement [Orcz Challenges]
+[19Apr2025 03:40:09.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonSaurio lost connection: Disconnected
+[19Apr2025 03:40:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonSaurio left the game
