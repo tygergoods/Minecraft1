@@ -1797,3 +1797,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [19Apr2025 03:39:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonSaurio has made the advancement [Orcz Challenges]
 [19Apr2025 03:40:09.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonSaurio lost connection: Disconnected
 [19Apr2025 03:40:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonSaurio left the game
+[19Apr2025 03:41:57.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Getting an Upgrade]
+[19Apr2025 03:42:01.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sauro1[/172.23.15.172:54133] logged in with entity id 7290 at (9.5, 69.0, 2.5)
+[19Apr2025 03:42:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sauro1 joined the game
+[19Apr2025 03:42:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sauro1 has made the advancement [Ice and Fire]
+[19Apr2025 03:42:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sauro1 has made the advancement [Orcz Challenges]
+[19Apr2025 03:43:21.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sauro1 lost connection: Disconnected
+[19Apr2025 03:43:21.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sauro1 left the game
+[19Apr2025 03:45:03.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIUS[/172.23.15.172:54299] logged in with entity id 7991 at (10.5, 68.0, 5.5)
+[19Apr2025 03:45:03.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIUS joined the game
+[19Apr2025 03:45:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIUS has made the advancement [Ice and Fire]
+[19Apr2025 03:45:03.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIUS has made the advancement [Orcz Challenges]
+[19Apr2025 03:45:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIUS has made the advancement [Alex's Mobs]
+[19Apr2025 03:45:38.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIUS lost connection: Disconnected
+[19Apr2025 03:45:38.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIUS left the game
+[19Apr2025 03:47:25.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSAURO[/172.23.15.172:54429] logged in with entity id 8738 at (8.5, 69.0, -1.5)
+[19Apr2025 03:47:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSAURO joined the game
+[19Apr2025 03:47:25.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSAURO has made the advancement [Ice and Fire]
+[19Apr2025 03:47:25.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSAURO has made the advancement [Orcz Challenges]
+[19Apr2025 03:48:12.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSAURO lost connection: Disconnected
+[19Apr2025 03:48:12.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSAURO left the game
+[19Apr2025 03:50:33.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSaurius[/172.23.15.172:54596] logged in with entity id 9692 at (-1.5, 67.0, -9.5)
+[19Apr2025 03:50:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSaurius joined the game
+[19Apr2025 03:50:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSaurius has made the advancement [Ice and Fire]
+[19Apr2025 03:50:33.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSaurius has made the advancement [Orcz Challenges]

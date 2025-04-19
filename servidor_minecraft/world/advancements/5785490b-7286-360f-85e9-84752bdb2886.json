@@ -23,15 +23,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-04-19 03:24:39 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-19 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -65,6 +95,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
@@ -74,6 +110,24 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -89,15 +143,45 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-04-19 03:36:17 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-19 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -167,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
@@ -191,9 +281,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -227,6 +335,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
@@ -248,6 +362,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -281,6 +401,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-04-19 03:31:13 +0000"
@@ -308,6 +446,18 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-04-19 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -341,15 +491,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-04-19 03:33:31 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_curtain": {
+    "criteria": {
+      "has_item": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -389,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2025-04-19 03:36:17 +0000"
@@ -401,15 +593,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-04-19 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -422,6 +638,12 @@
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -452,6 +674,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -509,9 +737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-19 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -521,9 +761,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/root": {
     "criteria": {
       "join": "2025-04-19 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -536,6 +794,12 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -569,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-19 03:33:25 +0000"
@@ -578,6 +848,18 @@
   "valhelsia_furniture:recipes/decorations/light_blue_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -599,9 +881,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -611,9 +905,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-04-19 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -632,6 +938,12 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -659,9 +971,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-19 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -689,6 +1019,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_jungle_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-04-19 03:36:44 +0000"
@@ -701,9 +1049,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-04-19 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
     },
     "done": true
   },
@@ -719,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-19 03:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-04-19 03:31:13 +0000"
@@ -731,6 +1097,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
@@ -740,6 +1112,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
     },
     "done": true
   },
@@ -851,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-19 03:24:39 +0000"
@@ -899,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-19 03:41:57 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
     "criteria": {
       "has_planks": "2025-04-19 03:36:17 +0000"
@@ -923,6 +1313,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
@@ -932,6 +1334,24 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-04-19 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -968,6 +1388,18 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
@@ -1025,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-19 03:41:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
@@ -1043,9 +1481,27 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/stone_blacksmith_gavel": {
+    "criteria": {
+      "has_stone_tool_materials": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
     },
     "done": true
   },
@@ -1067,6 +1523,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2025-04-19 03:36:17 +0000"
@@ -1085,9 +1565,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2025-04-19 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
     },
     "done": true
   },
@@ -1113,21 +1611,77 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_jungle_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
       "has_stick": "2025-04-19 03:31:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-04-19 03:35:22 +0000"
+      "cooked_mutton": "2025-04-19 03:40:22 +0000",
+      "rotten_flesh": "2025-04-19 03:35:22 +0000",
+      "cooked_chicken": "2025-04-19 03:38:36 +0000"
     },
     "done": false
   },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 03:39:19 +0000"
     },
     "done": true
   },
