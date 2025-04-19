@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-04-19 03:24:39 +0000"
@@ -56,6 +62,12 @@
   "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
     "criteria": {
       "has_hay_block": "2025-04-19 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-19 04:39:29 +0000"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -143,6 +161,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2025-04-19 03:37:36 +0000"
@@ -158,6 +182,12 @@
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -203,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-19 03:31:13 +0000"
@@ -218,6 +260,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -242,6 +290,18 @@
   "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
     "criteria": {
       "has_hay_block": "2025-04-19 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -278,6 +338,12 @@
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2025-04-19 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-04-19 04:45:58 +0000"
     },
     "done": true
   },
@@ -332,6 +398,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -407,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-04-19 03:47:42 +0000"
@@ -422,6 +500,12 @@
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -455,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:36:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-19 03:39:19 +0000"
@@ -479,9 +569,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-04-19 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:36:15 +0000"
     },
     "done": true
   },
@@ -569,6 +671,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-04-19 03:31:13 +0000"
@@ -611,15 +725,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-04-19 04:13:10 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -704,6 +836,12 @@
   "spartanweaponry:recipes/stone_tomahawk": {
     "criteria": {
       "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -875,6 +1013,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-04-19 03:36:44 +0000"
@@ -884,6 +1028,12 @@
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -932,6 +1082,12 @@
   "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
     "criteria": {
       "has_hay_block": "2025-04-19 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1091,6 +1247,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 03:41:00 +0000"
@@ -1151,6 +1313,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-04-19 04:13:10 +0000"
@@ -1205,6 +1379,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-19 03:39:19 +0000"
@@ -1238,6 +1418,12 @@
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:36:15 +0000"
     },
     "done": true
   },
@@ -1427,6 +1613,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_jungle_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-19 03:39:19 +0000"
@@ -1460,6 +1652,12 @@
   "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-19 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1505,6 +1703,12 @@
     },
     "done": true
   },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-04-19 04:45:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-19 04:24:02 +0000"
@@ -1514,6 +1718,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-04-19 04:13:10 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-04-19 04:31:57 +0000"
     },
     "done": true
   },
@@ -1544,6 +1754,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1583,6 +1799,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-04-19 04:13:10 +0000"
@@ -1592,6 +1814,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-19 03:33:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1655,9 +1883,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-04-19 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1700,6 +1940,12 @@
   "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
     "criteria": {
       "has_hay_block": "2025-04-19 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1760,6 +2006,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-19 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -1847,6 +2099,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-19 04:40:04 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-19 03:36:17 +0000"
@@ -1904,6 +2162,12 @@
   "valhelsia_furniture:recipes/decorations/white_crimson_chair": {
     "criteria": {
       "has_white_wool": "2025-04-19 04:00:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },
@@ -2033,6 +2297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-19 04:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-19 04:25:40 +0000"
@@ -2042,6 +2312,12 @@
   "spartanweaponry:recipes/wooden_dagger": {
     "criteria": {
       "has_wood": "2025-04-19 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-04-19 04:40:04 +0000"
     },
     "done": true
   },
@@ -2165,6 +2441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-04-19 03:36:44 +0000"
@@ -2267,6 +2549,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-19 04:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-19 04:22:25 +0000",
@@ -2274,8 +2562,10 @@
       "minecraft:beach": "2025-04-19 03:34:22 +0000",
       "minecraft:dark_forest": "2025-04-19 04:20:50 +0000",
       "minecraft:river": "2025-04-19 03:31:30 +0000",
+      "minecraft:swamp": "2025-04-19 04:44:40 +0000",
       "minecraft:forest": "2025-04-19 03:34:26 +0000",
       "minecraft:ocean": "2025-04-19 03:33:45 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-19 04:36:56 +0000",
       "minecraft:plains": "2025-04-19 03:24:40 +0000"
     },
     "done": false
@@ -2331,6 +2621,12 @@
   "spartanweaponry:recipes/stone_dagger": {
     "criteria": {
       "has_cobblestone": "2025-04-19 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 04:41:40 +0000"
     },
     "done": true
   },

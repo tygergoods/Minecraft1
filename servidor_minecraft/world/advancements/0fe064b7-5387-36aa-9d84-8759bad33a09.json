@@ -8,9 +8,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-19 04:18:34 +0000",
+      "minecraft:beach": "2025-04-19 04:36:09 +0000",
       "minecraft:river": "2025-04-19 04:10:57 +0000",
+      "minecraft:swamp": "2025-04-19 04:34:21 +0000",
+      "minecraft:cold_ocean": "2025-04-19 04:36:19 +0000",
       "minecraft:forest": "2025-04-19 04:00:39 +0000",
       "minecraft:ocean": "2025-04-19 03:55:48 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-19 04:35:52 +0000",
       "minecraft:plains": "2025-04-17 23:35:08 +0000"
     },
     "done": false
@@ -1679,6 +1683,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_javelin": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-19 04:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-19 04:18:26 +0000"
@@ -1688,6 +1710,12 @@
   "valhelsia_furniture:recipes/decorations/black_cherry_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-04-19 04:43:51 +0000"
     },
     "done": true
   },
@@ -1703,9 +1731,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_jungle_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
     },
     "done": true
   },
@@ -1715,9 +1761,75 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/iron_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-19 04:33:21 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-19 04:40:34 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-04-19 04:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-04-19 04:43:50 +0000"
     },
     "done": true
   },
@@ -1739,6 +1851,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-04-19 04:13:17 +0000"
@@ -1751,9 +1875,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "betterskills:farming_1": {
     "criteria": {
       "farming_1_0": "2025-04-19 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-04-19 04:37:50 +0000"
     },
     "done": true
   },
@@ -1763,9 +1899,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
     },
     "done": true
   },
@@ -1781,6 +1935,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-19 04:43:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-19 04:42:03 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_3": {
     "criteria": {
       "foraging_3_0": "2025-04-19 04:12:19 +0000"
@@ -1793,9 +1971,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-04-19 04:32:40 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/cecaelia": {
     "criteria": {
       "kill": "2025-04-19 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-19 04:33:21 +0000"
     },
     "done": true
   },
@@ -1808,6 +2010,18 @@
   "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
     },
     "done": true
   },
@@ -1829,15 +2043,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-04-19 04:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-19 04:40:34 +0000"
     },
     "done": true
   },
@@ -1853,9 +2103,39 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-19 04:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-04-19 04:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-19 04:18:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-19 04:33:21 +0000"
     },
     "done": true
   },
@@ -1865,15 +2145,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_stool": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-19 04:23:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
     },
     "done": true
   },
@@ -1901,9 +2241,27 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-04-19 04:36:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-19 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
     },
     "done": true
   },
@@ -1913,9 +2271,34 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "bog": "2025-04-19 04:34:51 +0000",
+      "coniferous_forest": "2025-04-19 04:32:40 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_mangrove_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
     },
     "done": true
   },
@@ -1931,15 +2314,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-04-19 04:43:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-04-19 04:33:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:41 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_birch_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-19 04:43:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
     },
     "done": true
   },
@@ -1955,6 +2386,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-04-19 04:17:14 +0000"
@@ -1967,15 +2416,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-04-19 04:13:17 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_arrow": {
     "criteria": {
       "has_feather": "2025-04-19 04:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-19 04:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-19 04:33:21 +0000"
     },
     "done": true
   },
@@ -2003,6 +2488,30 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-04-19 04:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-19 04:43:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-04-19 04:13:17 +0000"
@@ -2012,6 +2521,30 @@
   "grimoireofgaia:recipes/decorations/pearl_block": {
     "criteria": {
       "has_shiny_pearl": "2025-04-19 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-19 04:40:34 +0000"
     },
     "done": true
   },
@@ -2039,9 +2572,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-19 04:33:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-19 04:41:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
     "criteria": {
       "has_black_wool": "2025-04-19 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 04:40:36 +0000"
     },
     "done": true
   },
