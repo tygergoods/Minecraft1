@@ -2051,3 +2051,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advanc
 [19Apr2025 04:10:17.917] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67bba045[id=<null>,name=DonTony09,properties={},legacy=false] (/172.23.215.146:50231) lost connection: Disconnected
 [19Apr2025 04:10:36.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.23.215.146:50271] logged in with entity id 14752 at (-28.948056259456877, 63.0, -156.73651887458118)
 [19Apr2025 04:10:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[19Apr2025 04:12:19.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Foraging 3]
+[19Apr2025 04:13:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Minotaurus
+[19Apr2025 04:14:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Minotaurus
+[19Apr2025 04:14:08.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Minotaurus
+[19Apr2025 04:14:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Cecaelia
+[19Apr2025 04:18:23.713] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[19Apr2025 04:18:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Enchanted blossom]
+[19Apr2025 04:21:15.303] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[19Apr2025 04:21:15.303] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[19Apr2025 04:21:24.343] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[19Apr2025 04:21:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Sporeling
+[19Apr2025 04:23:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Farming]
+[19Apr2025 04:23:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [A Seedy Place]
+[19Apr2025 04:24:55.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Toad
+[19Apr2025 04:25:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DonTony09> GF
+[19Apr2025 04:26:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19Apr2025 04:26:34.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op  DonTony09<--[HERE]
+[19Apr2025 04:26:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 04:26:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Op DonTony09<--[HERE]
+[19Apr2025 04:28:28.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DonTony09 a server operator
